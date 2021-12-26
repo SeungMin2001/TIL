@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>            //기본적인 Union_Find
 #include<algorithm>
 using namespace std;
 int A[1000001]={0,};
