@@ -1,11 +1,12 @@
 #include<stdio.h>
-int a,b,A[20]={0,},res[20]={0,},check[20]={0,};// dfs인자는 레벨 즉 깊이, 깊이를 사용해 dfs를 멈추고 원하는 순열의 길이만 출력한다
+int a,b,A[20]={0,},res[20]={0,},check[20]={0,},cnt=0;// dfs인자는 레벨 즉 깊이, 깊이를 사용해 dfs를 멈추고 원하는 순열의 길이만 출력한다
 int dfs(int level){                            // 순열 등등 경우의 수를 구할때는 dfs에 반복문을 결합한 상태를 떠올리면 될것같다.
 	if(level==b){
 		for(int i=0;i<b;i++){
 			printf("%d ",res[i]);
 		}
 		printf("\n");
+		cnt++;         //순열의 총 개수구하기
 		return 0;
 	}
 	else{
@@ -26,5 +27,6 @@ int main(){
 		scanf("%d",&A[i]);
 	}
 	dfs(0);
+	printf("%d",cnt);
 	return 0;
 }
