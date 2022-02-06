@@ -1,6 +1,9 @@
 # Today I Learned(TIL)
 
 - ## <군 복무중>
+  - ## inferan-algorithm.study
+    - [강의를 들으면서 배울거,느낀거 모두 정리]() 
+
   - ## algorithm
     - ### 정수론 및 조합론, 수학
       - [정수론_조합론_수학_정리](https://github.com/ssm2020/TIL/blob/main/algorithm_md_list/%EC%A0%95%EC%88%98%EB%A1%A0_%EC%A1%B0%ED%95%A9%EB%A1%A0_%EC%88%98%ED%95%99/%EC%A0%95%EC%88%98%EB%A1%A0_%EC%A1%B0%ED%95%A9%EB%A1%A0_%EC%88%98%ED%95%99.md)
