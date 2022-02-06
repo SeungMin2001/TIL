@@ -1,5 +1,4 @@
-# Today I Learned(TIL)
-# START : 2022.02.06
+# Today I Learned(TIL) -> START : 2022.02.06
   - ## TIL
     - [2022.02]() 
  
