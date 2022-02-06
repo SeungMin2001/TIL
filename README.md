@@ -1,5 +1,5 @@
-# Today I Learned(TIL) -> START : 2022.02.06
-  - ## TIL
+## Today I Learned(TIL)
+
     - [2022.02](https://github.com/SeungMin2001/TIL/tree/main/2022.02) 
  
 
