@@ -1,8 +1,8 @@
 # Today I Learned(TIL)
 
 - ## <군 복무중>
-  - ## inferan-algorithm.study
-    - [강의를 들으면서 배운거,느낀거 모두 정리](https://github.com/SeungMin2001/TIL/blob/main/inflearn-CodingTest/algorithm.md)<br><br>
+  - ## algorithm.study
+    - [강의를 들으면서 배운거,느낀거 모두 정리](https://github.com/SeungMin2001/TIL/tree/main/CodingTest)<br><br>
 
   - ## algorithm-BOJ.site
     - ### 정수론 및 조합론, 수학
