@@ -61,9 +61,10 @@
    <br><br><br><br>
 
 
- - ### 토익스피킹
-   - #### 영단어
-   - #### 문법<br><br><br><br><br> 
+ - ### 영어
+  - #### POP
+  - #### TOEIC SPEAKING 
+  
 
  - ### ETC
    - [ETC](https://github.com/SeungMin2001/TIL/blob/main/ETC/ETC_README.md) 
