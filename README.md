@@ -66,4 +66,4 @@
    - #### 문법<br><br><br><br><br> 
 
  - ### ETC
-  - #### 꽃히는 문장, 단어
+  - [ETC](https://github.com/SeungMin2001/TIL/blob/main/ETC/ETC_README.md) 
