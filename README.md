@@ -74,7 +74,7 @@
 #
  - ### 수학
    - #### 고등수학 개념 및 문제풀이
-     - [수학개념]()   
+     - [수학개념](https://github.com/SeungMin2001/TIL/blob/main/Math.md)   
 
 #
 
