@@ -82,7 +82,8 @@
 #
  - ### 수학
    - #### 고등수학 개념 및 문제풀이
-     - [수학개념](https://github.com/SeungMin2001/TIL/blob/main/Math.md)   
+     - [수능수학](https://github.com/SeungMin2001/TIL/blob/main/Math/Sat_Math.md)   
+     - [Algorithm_Math](https://github.com/SeungMin2001/TIL/blob/main/Math/Algorithm_Math.md)
 
 #
 
