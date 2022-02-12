@@ -67,6 +67,8 @@
      - [OS](https://github.com/ssm2020/TIL/blob/main/CS/OS)<br> 
    - #### 데이터베이스
      - [Dataase](https://github.com/ssm2020/TIL/blob/main/CS/DataBase)<br>
+   - #### 컴퓨터구조
+     - [computer architecture](https://github.com/SeungMin2001/TIL/tree/main/CS/ComputerArchitecture)<br>
    <br><br><br><br>
    
 # 
