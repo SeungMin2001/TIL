@@ -13,7 +13,7 @@
    - [강의를 들으면서 배운거,느낀거 모두 정리](https://github.com/SeungMin2001/TIL/tree/main/CodingTest)<br><br>
 #
  - ### algorithm-BOJ.site)
-  - [list]() <br><br><br><br>
+     - [list](https://github.com/SeungMin2001/TIL/tree/main/algorithm_list) <br><br><br><br>
      
 # 
 
@@ -39,13 +39,6 @@
    - #### TOEIC SPEAKING 
      - [기초개념](https://github.com/SeungMin2001/TIL/tree/main/TOEIC%20SPEAKING/Basic.md) 
   <br><br><br>
-  
-#
- - ### 수학
-   - #### 고등수학 개념 및 문제풀이
-     - [수능수학](https://github.com/SeungMin2001/TIL/blob/main/Math/Sat_Math.md)   
-     - [Algorithm_Math](https://github.com/SeungMin2001/TIL/blob/main/Math/Algorithm_Math.md)
-
 #
 
  - ### ETC
