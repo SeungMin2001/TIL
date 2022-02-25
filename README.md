@@ -7,14 +7,12 @@
 #
 
 - [2022.02](https://github.com/SeungMin2001/TIL/tree/main/2022.02) 
-- 
 #
  - ### algorithm.study
    - [강의를 들으면서 배운거,느낀거 모두 정리](https://github.com/SeungMin2001/TIL/tree/main/CodingTest)<br><br>
 #
  - ### algorithm-BOJ.site)
-     - [list](https://github.com/SeungMin2001/TIL/tree/main/algorithm_list) <br><br><br><br>
-     
+     - [list](https://github.com/SeungMin2001/TIL/tree/main/algorithm_list) <br><br>
 # 
 
  - ### CS  
@@ -28,7 +26,7 @@
      - [Dataase](https://github.com/ssm2020/TIL/blob/main/CS/DataBase)<br>
    - #### 컴퓨터구조
      - [computer architecture](https://github.com/SeungMin2001/TIL/tree/main/CS/ComputerArchitecture)<br>
-   <br><br><br><br>
+   <br><br>
    
 # 
 
@@ -38,7 +36,7 @@
        - [There's Nothing Holdin Me Back_Word](https://github.com/SeungMin2001/TIL/blob/main/POP/There's...Word.md)
    - #### TOEIC SPEAKING 
      - [기초개념](https://github.com/SeungMin2001/TIL/tree/main/TOEIC%20SPEAKING/Basic.md) 
-  <br><br><br>
+  <br><br>
 #
 
  - ### ETC
