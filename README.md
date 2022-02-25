@@ -12,49 +12,8 @@
  - ### algorithm.study
    - [강의를 들으면서 배운거,느낀거 모두 정리](https://github.com/SeungMin2001/TIL/tree/main/CodingTest)<br><br>
 #
- - ### algorithm-BOJ.site
-   - #### 정수론 및 조합론, 수학
-     - [Math](https://github.com/SeungMin2001/TIL/tree/main/algorithm_md_list/Math)<br>
-
-
-   - #### 정렬
-     - [Sort](https://github.com/SeungMin2001/TIL/tree/main/algorithm_md_list/Sort)<br>
-
-
-   - #### 탐색
-     - [Search](https://github.com/SeungMin2001/TIL/tree/main/algorithm_md_list/Search)<br>
-
-
-   - #### 그리디
-     - [Greedy](https://github.com/SeungMin2001/TIL/tree/main/algorithm_md_list/Greedy)<br> 
-
-
-   - #### 해시
-     - [Hash](https://github.com/SeungMin2001/TIL/tree/main/algorithm_md_list/Hash)<br>   
-
-
-   - #### 분할정복
-     - [Division And Conquest](https://github.com/SeungMin2001/TIL/tree/main/algorithm_md_list/Division%20And%20Conquest)<br> 
-
-
-   - #### 그래프
-     - [Graph](https://github.com/SeungMin2001/TIL/tree/main/algorithm_md_list/Graph)<br> 
-   - #### 문자열
-
-
-     - [String](https://github.com/SeungMin2001/TIL/tree/main/algorithm_md_list/String)<br> 
-
-
-   - #### 동적계획법(DP)
-     - [DP](https://github.com/SeungMin2001/TIL/tree/main/algorithm_md_list/DP)<br> 
-
-
-   - #### 백트래킹
-     - [Back Tracking](https://github.com/SeungMin2001/TIL/tree/main/algorithm_md_list/Back%20Tracking)<br> 
-
-
-   - #### 자료구조
-     - [Data Structure](https://github.com/SeungMin2001/TIL/tree/main/algorithm_md_list/Data%20Structure)<br><br><br><br>
+ - ### algorithm-BOJ.site)
+  - [list]() <br><br><br><br>
      
 # 
 
