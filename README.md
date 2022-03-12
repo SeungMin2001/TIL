@@ -9,7 +9,8 @@
 - [2022.03](https://github.com/SeungMin2001/TIL/tree/main/2022.03)
 #
  - ### algorithm.study
-   - [강의를 들으면서 배운거,느낀거 모두 정리](https://github.com/SeungMin2001/TIL/tree/main/CodingTest)<br><br>
+   - [강의를 들으면서 배운거,느낀거 모두 정리](https://github.com/SeungMin2001/TIL/tree/main/CodingTest)
+   - 이 저장소는 저작권이 있는 문제들로 풀이를 하였으므로 다 풀고나면 삭제할것이다<br><br>
 #
  - ### algorithm-BOJ.site)
      - [list](https://github.com/SeungMin2001/TIL/tree/main/algorithm_list) <br><br>
