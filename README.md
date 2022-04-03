@@ -30,7 +30,7 @@
    <br><br>
 #
   - ### WEB
-    - #### ..곧 공부할 예정... 
+    - #### [WEB](https://github.com/SeungMin2001/TIL/tree/main/WEB) ..곧 공부할 예정... 
 # 
 
  - ### 영어
