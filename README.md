@@ -1,8 +1,7 @@
 # Today I Learned(군복무중)
 # StudyLogic
-  - #### Algorithm : 닥치는대로 문제 풀어라. 최대한 풀고 나가자
-  - ####    CS     : 지금 있는 관련서적, 찢어질때까지 읽자
-  - ####  English  : POP을 통해 공부하자
+  - 1. 오늘 하루 무엇을 했는지 전부 기록한다. 그리고 공부한것을 저장한 저장소 링크또한 하이퍼링크로 달아둔다.
+  - 2. 하루도 빠짐없이 매일매일 해야한다. 군대 전역할때까지 하루도 빠짐없이 기록하자
 #
 
 - [2022.02](https://github.com/SeungMin2001/TIL/tree/main/2022.02) 
@@ -11,9 +10,9 @@
 #
  - ### algorithm.study
    - [강의를 들으면서 배운거,느낀거 모두 정리](https://github.com/SeungMin2001/TIL/tree/main/CodingTest)
-   - 이 저장소는 저작권이 있는 문제들로 풀이를 하였으므로 다 풀고나면 삭제할것이다<br><br>
+   - 이 저장소는 저작권이 있으므로 문제풀때 참고용으로 볼 저장소이다.<br><br>
 #
- - ### algorithm-BOJ.site)
+ - ### algorithm-BOJ.site
      - [list](https://github.com/SeungMin2001/TIL/tree/main/algorithm_list) <br><br>
 # 
 
@@ -29,7 +28,9 @@
    - #### 컴퓨터구조
      - [computer architecture](https://github.com/SeungMin2001/TIL/tree/main/CS/ComputerArchitecture)<br>
    <br><br>
-   
+#
+  - ### WEB
+    - #### ..곧 공부할 예정... 
 # 
 
  - ### 영어
