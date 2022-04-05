@@ -14,20 +14,6 @@
 #
  - ### algorithm-BOJ.site
      - [list](https://github.com/SeungMin2001/TIL/tree/main/algorithm_list) <br><br>
-# 
-
- - ### CS  
-   - #### 네트워크
-     - [Network](https://github.com/ssm2020/TIL/blob/main/CS/Network)<br> 
-   - #### 서버
-     - [Server](https://github.com/ssm2020/TIL/blob/main/CS/Server)<br> 
-   - #### 운영체제
-     - [OS](https://github.com/ssm2020/TIL/blob/main/CS/OS)<br> 
-   - #### 데이터베이스
-     - [Dataase](https://github.com/ssm2020/TIL/blob/main/CS/DataBase)<br>
-   - #### 컴퓨터구조
-     - [computer architecture](https://github.com/SeungMin2001/TIL/tree/main/CS/ComputerArchitecture)<br>
-   <br><br>
 #
   - ### WEB
     - #### [WEB](https://github.com/SeungMin2001/TIL/tree/main/WEB) ..곧 공부할 예정... 
