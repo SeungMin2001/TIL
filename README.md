@@ -21,10 +21,11 @@
 
  - ### 영어
    - #### 토익
+    - 영단어 체크리스트 : [60회독 체크리스트](https://github.com/SeungMin2001/TIL/blob/main/English/TOEIC/%EC%98%81%EB%8B%A8%EC%96%B4%20%EA%B3%84%ED%9A%8D.md) 
       
    - #### POPsong
-       - [There's Nothing Holden'Me Back](https://github.com/SeungMin2001/TIL/blob/main/POP/There's%20Nothing%20Holdin'Me%20Back.md) 
-       - [There's Nothing Holdin Me Back_Word](https://github.com/SeungMin2001/TIL/blob/main/POP/There's...Word.md)
+       - [There's Nothing Holden'Me Back](https://github.com/SeungMin2001/TIL/blob/main/English/POP/There's%20Nothing%20Holdin'Me%20Back.md) 
+       - [There's Nothing Holdin Me Back_Word](https://github.com/SeungMin2001/TIL/blob/main/English/POP/There's...Word.md)
   <br><br>
 #
 
