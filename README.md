@@ -8,6 +8,7 @@
 - [2022.03](https://github.com/SeungMin2001/TIL/tree/main/2022.03)
 - [2022.04](https://github.com/SeungMin2001/TIL/tree/main/2022.04)
 - [2022.05](https://github.com/SeungMin2001/TIL/tree/main/2022.05)
+- [2022.06](https://github.com/SeungMin2001/TIL/tree/main/2022.06)
 
 #
  - ### algorithm.study
